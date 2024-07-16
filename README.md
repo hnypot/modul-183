@@ -1,5 +1,5 @@
 # modul-183
-💡Note: This repository is/was a school project (modul-183) from more than a year ago. This is only a reupload of it so that it also is publicly accessible.
+💡Note: This app was a school project (modul-183) from more than a year ago. This is only a reupload from the GitHub Classroom repo so that it also is publicly accessible.
 
 This repository demonstrates a basic web-app solely for authentification purposes.
 To get started, you'll need to install (or check if you already have) some dependencies.

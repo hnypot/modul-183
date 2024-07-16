@@ -30,6 +30,6 @@ const DB_NAME = 'nameOfDatabase'; // specifies the name of the database being ac
 For more help, visit [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 ## Thank you for visiting !
-Contributor: [Alperen Yilmaz](https://github.com/alperen-dev)
+Contributor: Alperen "[hnypot](https://github.com/hnypot)" Yilmaz
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/dygNXH4X)
